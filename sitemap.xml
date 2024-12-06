@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://lukaratkovic04.github.io/TechShopJS/index.html</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.90</priority>
+    </url>
+    <url>
+        <loc>https://lukaratkovic04.github.io/TechShopJS/products.html</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://lukaratkovic04.github.io/TechShopJS/contact.html</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.60</priority>
+    </url>
+    <url>
+        <loc>https://lukaratkovic04.github.io/TechShopJS/author.html</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.50</priority>
+    </url>
+</urlset>
